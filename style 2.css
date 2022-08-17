@@ -1,0 +1,44 @@
+body{
+  background-image: url(bg.jfif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.text{
+  text-align: center;
+  font-size: 25px;
+}
+
+.image{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 15px 0;
+}
+
+.image img{
+  padding-left: 25px;
+  padding-top: 25px;
+  width: 350px;
+  height: 350px;
+}
+
+.image2{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 15px 0;
+}
+
+.image2 img{
+  padding-left: 25px;
+  padding-top: 25px;
+  width: 350px;
+  height: 350px;
+}
